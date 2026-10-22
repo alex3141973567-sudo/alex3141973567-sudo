@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Alejandro Elías Moreno 👋
 
-<!--
-**alex3141973567-sudo/alex3141973567-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica de la Universidad de Colima (grupo 1D)
+- 📍 Soy de la Universidad de Colima 
+- 🌱 Actualmente estoy aprendiendo **Git y GitHub**, **C++**, **UML** y lógica de programación con pseudocódigo
+- 🎯 Mi meta es expandir mis conocimientos 
 
-Here are some ideas to get you started:
+## Mis intereses
+- 🚁 Construcción de drones y aeronaves (UAV / VTOL)
+- 🖨️ Impresión 3D
+- 🔌 Electrónica y proyectos *maker*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que quiero aprender
+- C++
+- Python
+- Git y GitHub
+- Diagramas UML
+
+## Contacto
+aelias4@ucol.mx 
