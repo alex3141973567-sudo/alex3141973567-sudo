@@ -2,7 +2,7 @@
 
 ## Sobre mí
 - 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica de la Universidad de Colima (grupo 1D)
-- 📍 Soy de la Universidad de Colima 
+- 📍 Soy de manzanillo colima 
 - 🌱 Actualmente estoy aprendiendo **Git y GitHub**, **C++**, **UML** y lógica de programación con pseudocódigo
 - 🎯 Mi meta es expandir mis conocimientos 
 
